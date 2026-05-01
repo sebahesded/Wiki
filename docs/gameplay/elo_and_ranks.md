@@ -1,4 +1,3 @@
-# Elo and Ranks
 
 ## What is Elo Rating?
 
@@ -37,7 +36,8 @@ The playerbase is separated into 6 Ranks.
 
 They are further separated into Divisions as follows:
 
-![Ranks and their divisions](./img/ranks_divisions.png)
+<img width="3836" height="926" alt="Screenshot 2026-05-01 122224" src="https://github.com/user-attachments/assets/deb39bde-7aad-4150-9967-df416dd71b85" />
+
 
 ## Seasons and Phases
 
